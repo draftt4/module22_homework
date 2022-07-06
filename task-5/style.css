@@ -1,0 +1,44 @@
+body {
+    background-color: lightskyblue;
+}
+
+.box {
+    height: 500px;
+    width: 400px;
+    margin-left: 20%;
+
+}
+
+.wraper {
+    display: flex;
+    align-items: center;
+}
+
+.input-text {
+    height: 30px;
+    width: 250px;
+    border-radius: 7px;
+}
+
+.send-massage {
+    margin-left: 20px;
+    height: 30px;
+    width: 90px; 
+    background-color: lightgreen;
+    border-radius: 7px;
+}
+
+.geolocatio {
+    margin-left: 5px;
+    height: 30px;
+    width: 90px; 
+    background-color: lightgreen;
+    border-radius: 7px;
+}
+
+.content {
+    height: 400px;
+    width: 400px;
+    border: solid 5px lightgreen;
+    display: flex;
+}
